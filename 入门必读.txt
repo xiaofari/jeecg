@@ -22,4 +22,6 @@
    
    注意： 必须手工执行doc\db下的数据库脚本
    
+   //i have a hard day ohohohoh
+   
    //my name is xiakai
