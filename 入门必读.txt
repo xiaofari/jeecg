@@ -21,3 +21,5 @@
    技术论坛： www.jeecg.org 
    
    注意： 必须手工执行doc\db下的数据库脚本
+   
+   //my name is xiakai
