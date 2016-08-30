@@ -1,27 +1,27 @@
 
-±Ø¿´Ìù£¨³£¼ûÎÊÌâÌù£©£ºhttp://www.jeecg.org/forum.php?mod=viewthread&tid=1830&extra=page%3D1
+å¿…çœ‹è´´ï¼ˆå¸¸è§é—®é¢˜è´´ï¼‰ï¼šhttp://www.jeecg.org/forum.php?mod=viewthread&tid=1830&extra=page%3D1
 
-1. ±ê×¼¿ª·¢»·¾³£º
+1. æ ‡å‡†å¼€å‘ç¯å¢ƒï¼š
     eclipse + maven + jdk7 + tomcat6 + mysql
-2. ±ØĞëÊÖ¹¤Ö´ĞĞSQL½Å±¾ (×Ô¶¯³õÊ¼»¯ÒÑ×÷·Ï)
+2. å¿…é¡»æ‰‹å·¥æ‰§è¡ŒSQLè„šæœ¬ (è‡ªåŠ¨åˆå§‹åŒ–å·²ä½œåºŸ)
     docs/db/jeecg3.6.5-mysql-20160718.sql
-	ËµÃ÷£ºÄ¿Ç°¹Ù·½Ìá¹©mysql\oracle½Å±¾,ÆäËû»áÂ½ĞøÌá¹©
-3. Èç¹ûÓöµ½mavenÒÀÀµÏÂÔØÊ§°ÜµÄÇé¿ö£¬ÇëÍ¨¹ıÒÔÏÂÁ´½Ó£¬ÏÂÔØjeecg±¾µØ²Ö¿â
-    Á´½Ó£ºhttp://pan.baidu.com/s/1o8s5uwq ÃÜÂë£ºcpoc
-4.  jeecgÆ½Ì¨¿ª·¢ÊÖ²áÔÚÄ¿Â¼: docs/¼¼ÊõÎÄµµ
-5.  jeecgÈëÃÅÊÓÆµÏÂÔØ
+	è¯´æ˜ï¼šç›®å‰å®˜æ–¹æä¾›mysql\oracleè„šæœ¬,å…¶ä»–ä¼šé™†ç»­æä¾›
+3. å¦‚æœé‡åˆ°mavenä¾èµ–ä¸‹è½½å¤±è´¥çš„æƒ…å†µï¼Œè¯·é€šè¿‡ä»¥ä¸‹é“¾æ¥ï¼Œä¸‹è½½jeecgæœ¬åœ°ä»“åº“
+    é“¾æ¥ï¼šhttp://pan.baidu.com/s/1o8s5uwq å¯†ç ï¼šcpoc
+4.  jeecgå¹³å°å¼€å‘æ‰‹å†Œåœ¨ç›®å½•: docs/æŠ€æœ¯æ–‡æ¡£
+5.  jeecgå…¥é—¨è§†é¢‘ä¸‹è½½
     http://www.jeecg.org/forum.php?mod=viewthread&tid=197&extra=page%3D1
-6. ¸ü¶à×ÊÁÏ·ÃÎÊ¹Ù·½ÂÛÌ³£ºwww.jeecg.org
-7. ¿ª·¢»·¾³´î½¨ÎÄµµ
+6. æ›´å¤šèµ„æ–™è®¿é—®å®˜æ–¹è®ºå›ï¼šwww.jeecg.org
+7. å¼€å‘ç¯å¢ƒæ­å»ºæ–‡æ¡£
    http://www.jeecg.org/forum.php?mod=viewthread&tid=2537&extra=page%3D1
-8. jeecg²ÉÓÃ²å¼ş¿ª·¢Ä£Ê½£¬¸ü¶àÒµÎñ×é¼şÒÔ²å¼ş·½Ê½Ìá¹©
-   jeecgÔÆÓ¦ÓÃ²å¼şÖĞĞÄÍøÖ·£ºhttp://yun.jeecg.org
+8. jeecgé‡‡ç”¨æ’ä»¶å¼€å‘æ¨¡å¼ï¼Œæ›´å¤šä¸šåŠ¡ç»„ä»¶ä»¥æ’ä»¶æ–¹å¼æä¾›
+   jeecgäº‘åº”ç”¨æ’ä»¶ä¸­å¿ƒç½‘å€ï¼šhttp://yun.jeecg.org
    
-9. QQ¼¼Êõ½»Á÷Èº£º  176031980
-   ¼¼ÊõÂÛÌ³£º www.jeecg.org 
+9. QQæŠ€æœ¯äº¤æµç¾¤ï¼š  176031980
+   æŠ€æœ¯è®ºå›ï¼š www.jeecg.org 
    
-   ×¢Òâ£º ±ØĞëÊÖ¹¤Ö´ĞĞdoc\dbÏÂµÄÊı¾İ¿â½Å±¾
-   
+   æ³¨æ„ï¼š å¿…é¡»æ‰‹å·¥æ‰§è¡Œdoc\dbä¸‹çš„æ•°æ®åº“è„šæœ¬
+   //uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
    //i have a hard day ohohohoh
    
    //my name is xiakai
